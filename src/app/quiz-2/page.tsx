@@ -67,7 +67,6 @@ export default function Quiz2() {
           </div>
           <div className="container flex justify-between items-center">
             <Link className="p-2 bg-violet-600 rounded hover:bg-violet-400 transition-all" href={'/quiz'}><ArrowLeft /></Link>
-            <Link className="p-2 bg-violet-600 rounded hover:bg-violet-400 transition-all" href={'/quiz-3'}><ArrowRight /></Link>
           </div>
         </div>
       </div>
